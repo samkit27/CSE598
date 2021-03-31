@@ -1,0 +1,4 @@
+make.exe -f d:\ASU\Academic\CSE598\assignment5\makefile --dry-run --always-make --keep-going --print-directory
+'"make.exe"' is not recognized as an internal or external command,
+operable program or batch file.
+ 
